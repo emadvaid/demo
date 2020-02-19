@@ -9,6 +9,14 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "id": 1,
+    "name": "john",
+    "age": 18
+  },
+  {
+    "id": 2,
+    "name": "david",
+    "age": 18
   }
+  
 }
